@@ -134,7 +134,7 @@
   
   /* Example: highlight for the authors' names */
   .author-highlight {
-    color: #1772d0;  /* brand color or any strong accent color */
+    color: #000000;  /* brand color or any strong accent color */
     font-weight: 700;
   }
   
